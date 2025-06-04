@@ -1,0 +1,8 @@
+[general]
+name=Basemap Selector
+description=This plugin adds a basemap layer to QGIS.
+version=1.0
+qgisMinimumVersion=3.0
+author=Mattias Tengbrand
+email=m@tengbrand.se
+icon=logo.png
